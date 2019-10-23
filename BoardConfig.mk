@@ -83,5 +83,5 @@ TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_EXCLUDE_TWRPAPP := true
 TW_NO_LEGACY_PROPS := true
 BOARD_INCLUDE_RECOVERY_DTBO := true
-BOARD_PREBUILT_DTBOIMAGE := device/samsung/d2q/prebuilt/dtbo
+BOARD_PREBUILT_DTBOIMAGE := device/samsung/d1q/prebuilt/dtbo
 
